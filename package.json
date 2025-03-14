@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0",
+    "supertest": "^7.0.0"
+  },
+  "name": "i228807",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
