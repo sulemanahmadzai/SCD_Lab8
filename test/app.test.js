@@ -1,6 +1,6 @@
 // test/app.test.js
 const request = require("supertest");
-const chai = await import("chai");
+import chai from "chai";
 const expect = chai.expect;
 
 // Import the app
